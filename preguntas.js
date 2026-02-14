@@ -20,13 +20,14 @@ window.PREGUNTAS = [
     "¿Cómo viaja la electricidad desde la central hasta tu casa?",
     "¿Qué transformación ocurre dentro de la bombilla para producir luz?"
   ],
-  palabrasClave: ["cadena de transformación energía", "central eléctrica funcionamiento", "energía eléctrica bombilla", "transporte electricidad alta tensión"],
-  referencias: [
-    { texto: "Wikipedia: Transformación energética", url: "https://es.wikipedia.org/wiki/Transformaci%C3%B3n_energ%C3%A9tica" },
-    { texto: "Wikipedia: Red de distribución de energía eléctrica", url: "https://es.wikipedia.org/wiki/Red_de_distribuci%C3%B3n_de_energ%C3%ADa_el%C3%A9ctrica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=cadena%20transformacion" },
-    { texto: "Khan Academy: Trabajo y energ?a", url: "https://es.khanacademy.org/science/physics/work-and-energy" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=cadena%20transformacion" }
+  palabrasClave: ["cadena de transformación energía", "central eléctrica funcionamiento", "energía eléctrica bombilla", "transporte electricidad alta tensión"],  referencias: [
+    { texto: "Wikipedia: Transformaci?n energ?tica", url: "https://es.wikipedia.org/wiki/Transformaci%C3%B3n_energ%C3%A9tica" },
+    { texto: "Wikipedia: Red de distribuci?n de energ?a el?ctrica", url: "https://es.wikipedia.org/wiki/Red_de_distribuci%C3%B3n_de_energ%C3%ADa_el%C3%A9ctrica" },
+    { texto: "Prueba v?deo A (YouTube directo)", url: "https://www.youtube.com/watch?v=NAPAMIpGB-s" },
+    { texto: "Prueba v?deo B (formato youtu.be)", url: "https://youtu.be/NAPAMIpGB-s" },
+    { texto: "Prueba v?deo C (YouTube m?vil)", url: "https://m.youtube.com/watch?v=NAPAMIpGB-s" },
+    { texto: "Prueba v?deo D (embed)", url: "https://www.youtube.com/embed/NAPAMIpGB-s" },
+    { texto: "Prueba v?deo E (youtube-nocookie)", url: "https://www.youtube-nocookie.com/embed/NAPAMIpGB-s" }
   ],
   presentacion: {
     pasos: [
