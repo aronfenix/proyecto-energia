@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Proyecto Energía – Miniexposición de Ciencias Naturales · 6º Primaria · CEIP Perú, Móstoles">
+  <title>Proyecto Energía · CEIP Perú</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚡</text></svg>">
+</head>
+<body>
+
+  <!-- ═══════════════════════════════════════════
+       HEADER
+       ═══════════════════════════════════════════ -->
+  <header id="site-header">
+    <div class="header-inner">
+      <button id="btn-home" class="logo-btn" aria-label="Ir a inicio">
+        <span class="logo-icon">⚡</span>
+        <span class="logo-text">Proyecto Energía</span>
+      </button>
+      <span class="header-subtitle">6º Primaria · CEIP Perú</span>
+    </div>
+  </header>
+
+  <!-- ═══════════════════════════════════════════
+       VISTA: HOME
+       ═══════════════════════════════════════════ -->
+  <main id="view-home" class="view active">
+
+    <section class="hero">
+      <h1 class="hero-title" id="hero-title">
+        <span class="word-anim">¿Qué</span>
+        <span class="word-anim">pregunta</span>
+        <span class="word-anim word-accent">te</span>
+        <span class="word-anim word-accent">ha</span>
+        <span class="word-anim word-highlight">tocado?</span>
+      </h1>
+      <p class="hero-sub">
+        Elige tu número de pregunta y prepara tu exposición.<br>
+        Tienes <strong>1 minuto</strong> para explicarlo todo. ¡Tú puedes!
+      </p>
+    </section>
+
+    <section class="selector-section">
+      <label for="question-select" class="selector-label">Busca tu pregunta</label>
+      <div class="selector-wrapper">
+        <select id="question-select" class="question-select" aria-label="Selecciona el número de pregunta">
+          <option value="">— Elige tu número —</option>
+        </select>
+        <button id="btn-go" class="btn-primary" disabled>
+          Ver mi pregunta <span class="btn-arrow">→</span>
+        </button>
+      </div>
+    </section>
+
+    <section class="grid-section">
+      <p class="grid-intro">O pulsa directamente tu número:</p>
+      <div id="question-grid" class="question-grid" role="list"></div>
+    </section>
+
+    <footer class="home-footer">
+      <p>Curso 2024–2025 · Ciencias de la Naturaleza · Tema 4</p>
+    </footer>
+
+  </main>
+
+  <!-- ═══════════════════════════════════════════
+       VISTA: PREGUNTA
+       ═══════════════════════════════════════════ -->
+  <main id="view-question" class="view">
+
+    <!-- Cabecera de la pregunta -->
+    <div class="question-header">
+      <span class="question-number-badge" id="q-number-badge"></span>
+      <h1 class="question-title" id="q-title"></h1>
+    </div>
+
+    <!-- Sección 1: Para entender tu pregunta -->
+    <article class="section-card" id="sec-intro">
+      <div class="section-head">
+        <span class="section-icon">🔍</span>
+        <h2 class="section-title">Para entender tu pregunta</h2>
+      </div>
+      <div class="section-body" id="q-intro"></div>
+    </article>
+
+    <!-- Sección 2: Pistas para investigar -->
+    <article class="section-card" id="sec-invest">
+      <div class="section-head">
+        <span class="section-icon">🧪</span>
+        <h2 class="section-title">Pistas para investigar</h2>
+      </div>
+      <p class="invest-lead">Para responder bien, intenta averiguar:</p>
+      <ul class="sub-questions" id="q-subquestions"></ul>
+      <div class="keywords-block">
+        <span class="keywords-label">🔑 Palabras clave para buscar:</span>
+        <div class="keywords-list" id="q-keywords"></div>
+      </div>
+      <div class="refs-block">
+        <span class="refs-label">📚 Recursos recomendados:</span>
+        <ul class="refs-list" id="q-refs"></ul>
+      </div>
+    </article>
+
+    <!-- Sección 3: Prepara tu exposición -->
+    <article class="section-card" id="sec-present">
+      <div class="section-head">
+        <span class="section-icon">🎤</span>
+        <h2 class="section-title">Prepara tu exposición</h2>
+      </div>
+      <p class="present-lead">Organiza tu minuto así:</p>
+      <div class="presentation-steps" id="q-present-steps"></div>
+
+      <div class="priority-block">
+        <div class="priority-essential">
+          <span class="priority-label">⭐ Lo que NO puede faltar</span>
+          <p id="q-essential"></p>
+        </div>
+        <div class="priority-optional">
+          <span class="priority-label">➕ Si te sobra tiempo</span>
+          <p id="q-optional"></p>
+        </div>
+      </div>
+
+      <div class="time-tip" id="q-time-tip"></div>
+
+      <div class="examples-block">
+        <div class="example example-bad">
+          <span class="example-label">❌ Así NO</span>
+          <p id="q-bad-example"></p>
+        </div>
+        <div class="example example-good">
+          <span class="example-label">✅ Así SÍ</span>
+          <p id="q-good-example"></p>
+        </div>
+      </div>
+    </article>
+
+    <!-- Sección 4: Prepara tu tarjeta -->
+    <article class="section-card" id="sec-card">
+      <div class="section-head">
+        <span class="section-icon">📋</span>
+        <h2 class="section-title">Prepara tu tarjeta</h2>
+      </div>
+      <div class="card-format">
+        <p class="card-format-reminder">Recuerda: <strong>medio folio</strong> con título, resumen (3-5 frases o esquema), dibujo/diagrama y tu nombre.</p>
+        <p class="card-format-tip">La tarjeta es tu chuleta y tu póster. Tiene que entenderse de un vistazo.</p>
+      </div>
+      <div class="card-diagram-idea" id="q-card-diagram"></div>
+    </article>
+
+    <!-- Sección 5: ¿Sabías que...? -->
+    <article class="section-card section-card--fun" id="sec-fun">
+      <div class="section-head">
+        <span class="section-icon">💡</span>
+        <h2 class="section-title">¿Sabías que…?</h2>
+      </div>
+      <p class="fun-fact" id="q-funfact"></p>
+    </article>
+
+    <!-- Navegación -->
+    <nav class="q-nav">
+      <button id="btn-prev" class="btn-nav" aria-label="Pregunta anterior">← Anterior</button>
+      <button id="btn-back-home" class="btn-secondary">Volver al inicio</button>
+      <button id="btn-next" class="btn-nav" aria-label="Pregunta siguiente">Siguiente →</button>
+    </nav>
+
+  </main>
+
+  <script src="preguntas.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
