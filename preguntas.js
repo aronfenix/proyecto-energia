@@ -23,11 +23,9 @@ window.PREGUNTAS = [
   palabrasClave: ["cadena de transformación energía", "central eléctrica funcionamiento", "energía eléctrica bombilla", "transporte electricidad alta tensión"],  referencias: [
     { texto: "Wikipedia: Transformaci?n energ?tica", url: "https://es.wikipedia.org/wiki/Transformaci%C3%B3n_energ%C3%A9tica" },
     { texto: "Wikipedia: Red de distribuci?n de energ?a el?ctrica", url: "https://es.wikipedia.org/wiki/Red_de_distribuci%C3%B3n_de_energ%C3%ADa_el%C3%A9ctrica" },
-    { texto: "Prueba v?deo A (YouTube directo)", url: "https://www.youtube.com/watch?v=NAPAMIpGB-s" },
-    { texto: "Prueba v?deo B (formato youtu.be)", url: "https://youtu.be/NAPAMIpGB-s" },
-    { texto: "Prueba v?deo C (YouTube m?vil)", url: "https://m.youtube.com/watch?v=NAPAMIpGB-s" },
-    { texto: "Prueba v?deo D (embed)", url: "https://www.youtube.com/embed/NAPAMIpGB-s" },
-    { texto: "Prueba v?deo E (youtube-nocookie)", url: "https://www.youtube-nocookie.com/embed/NAPAMIpGB-s" }
+    { texto: "Prueba v?deo E (youtube-nocookie)", url: "https://www.youtube-nocookie.com/embed/NAPAMIpGB-s" },
+    { texto: "V?deo recomendado (castellano): ELECTRICIDAD para niños ⚡ Episodio 3 💡 Circuito 🔌 Materiales conductores y materiales aislantes", url: "https://www.youtube.com/watch?v=a4mY3YMNLz8" },
+    { texto: "V?deo extra (castellano): ¿Qué es la electricidad? - Ciencia para niños - Episodio 1", url: "https://www.youtube.com/watch?v=ovrgMD6tEm8" }
   ],
   presentacion: {
     pasos: [
@@ -66,9 +64,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Valor energético de los alimentos", url: "https://es.wikipedia.org/wiki/Calor%C3%ADa" },
     { texto: "Wikipedia: Etiquetado de alimentos", url: "https://es.wikipedia.org/wiki/Etiquetado_de_alimentos" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=quimica%20alimentos" },
     { texto: "Khan Academy: Respiraci?n celular y fermentaci?n", url: "https://es.khanacademy.org/science/biology/cellular-respiration-and-fermentation" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=quimica%20alimentos" }
+    { texto: "V?deo recomendado (castellano): Alimentación saludable para niños - Hidratos de carbono, grasas, proteínas, vitaminas...", url: "https://www.youtube.com/watch?v=Wr0_wULJnBE" },
+    { texto: "V?deo extra (castellano): LOS NUTRIENTES | Videos Educativos para niños", url: "https://www.youtube.com/watch?v=i9WV6oRGgoA" }
   ],
   presentacion: {
     pasos: [
@@ -106,9 +104,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Conservación de la energía", url: "https://es.wikipedia.org/wiki/Conservaci%C3%B3n_de_la_energ%C3%ADa" },
     { texto: "Wikipedia: Energía", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=conservacion" },
     { texto: "Khan Academy: Trabajo y energ?a", url: "https://es.khanacademy.org/science/physics/work-and-energy" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=conservacion" }
+    { texto: "V?deo recomendado (castellano): ¿La ENERGÍA se puede convertir en MATERIA? ⚛ - (corregido)", url: "https://www.youtube.com/watch?v=cz_z6rNk2sY" },
+    { texto: "V?deo extra (castellano): Teoría de la Relatividad Especial | ¡Ahora sí la vas a entender!", url: "https://www.youtube.com/watch?v=HVbWtwQLHKk" }
   ],
   presentacion: {
     pasos: [
@@ -146,9 +144,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Altavoz", url: "https://es.wikipedia.org/wiki/Altavoz" },
     { texto: "Wikipedia: Energía sonora", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_sonora" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=altavoz%20funcionamiento%20interno" },
     { texto: "Khan Academy: Ondas mec?nicas y sonido", url: "https://es.khanacademy.org/science/physics/mechanical-waves-and-sound" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=altavoz%20funcionamiento%20interno" }
+    { texto: "V?deo recomendado (castellano): El Sonido: ¿Cómo Se Produce y Viaja? | Vídeos Educativos para Niños | Naturales  @HappyLearningES", url: "https://www.youtube.com/watch?v=w2BJS-lmFEA" },
+    { texto: "V?deo extra (castellano): EL SONIDO para niños 🔊📣 Intensidad, tono y timbre 🎵🎧 Ciencias para niños", url: "https://www.youtube.com/watch?v=xQBeSWXFVd8" }
   ],
   presentacion: {
     pasos: [
@@ -186,9 +184,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Guitarra eléctrica", url: "https://es.wikipedia.org/wiki/Guitarra_el%C3%A9ctrica" },
     { texto: "Wikipedia: Guitarra eléctrica - Pastillas", url: "https://es.wikipedia.org/wiki/Guitarra_el%C3%A9ctrica#Pastillas" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=guitarra%20electrica%20pastillas" },
     { texto: "Khan Academy: Magnetismo y campos magn?ticos", url: "https://es.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=guitarra%20electrica%20pastillas" }
+    { texto: "V?deo recomendado (castellano): ¿Cómo Funciona una PASTILLA de Guitarra?", url: "https://www.youtube.com/watch?v=7LViV1BA_ik" },
+    { texto: "V?deo extra (castellano): Guitarra para Niños y Adultos", url: "https://www.youtube.com/watch?v=HRzlbj4fIOw" }
   ],
   presentacion: {
     pasos: [
@@ -226,9 +224,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Energía térmica", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_t%C3%A9rmica" },
     { texto: "Wikipedia: Calor", url: "https://es.wikipedia.org/wiki/Calor" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=termica%20definicion" },
     { texto: "Khan Academy: Termodin?mica", url: "https://es.khanacademy.org/science/physics/thermodynamics" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=termica%20definicion" }
+    { texto: "V?deo recomendado (castellano): ¿Qué es la ENERGÍA TÉRMICA? (Definición y Ejemplos)", url: "https://www.youtube.com/watch?v=3AF_8Y5yS4U" },
+    { texto: "V?deo extra (castellano): El clima para niños - Los tipos de clima del mundo", url: "https://www.youtube.com/watch?v=z_dZQuZQTQs" }
   ],
   presentacion: {
     pasos: [
@@ -266,9 +264,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Montaña rusa (física)", url: "https://es.wikipedia.org/wiki/Monta%C3%B1a_rusa" },
     { texto: "Museo Nacional de Ciencias Naturales: Energía cinética y potencial", url: "https://www.mncn.csic.es/" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=montana%20rusa%20potencial" },
     { texto: "Simulaci?n PhET: Parque de energ?a", url: "https://phet.colorado.edu/sims/html/energy-skate-park/latest/energy-skate-park_all.html?locale=es" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=montana%20rusa%20potencial" }
+    { texto: "V?deo recomendado (castellano): Energía para Niños🌍 : Qué Es, Tipos y Ejemplos Fáciles | @HappyLearningES", url: "https://www.youtube.com/watch?v=rEffBaP7Q2E" },
+    { texto: "V?deo extra (castellano): 🌞¿QUÉ ES LA ENERGÍA? Energías Renovables y No Renovables | Ciencias Naturales | @HappyLearningES", url: "https://www.youtube.com/watch?v=m9rMQYtg8OM" }
   ],
   presentacion: {
     pasos: [
@@ -311,9 +309,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Petróleo – Origen", url: "https://es.wikipedia.org/wiki/Petr%C3%B3leo#Origen" },
     { texto: "Wikipedia: Combustible fósil", url: "https://es.wikipedia.org/wiki/Combustible_f%C3%B3sil" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=formacion%20petroleo%20proceso" },
     { texto: "Khan Academy: Ciclo del carbono", url: "https://es.khanacademy.org/science/biology/ecology/biogeochemical-cycles/a/carbon-cycle" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=formacion%20petroleo%20proceso" }
+    { texto: "V?deo recomendado (castellano): Cuál es el origen del petróleo (y no, no viene de los dinosaurios) | BBC Mundo", url: "https://www.youtube.com/watch?v=KQbWFGB_Io4" },
+    { texto: "V?deo extra (castellano): 🟢Estados Unidos permite a grandes petroleras reanudar operaciones en Venezuela", url: "https://www.youtube.com/watch?v=4CluhRq5yo0" }
   ],
   presentacion: {
     pasos: [
@@ -351,9 +349,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Gas natural", url: "https://es.wikipedia.org/wiki/Gas_natural" },
     { texto: "Naturgy – Educa: ¿Qué es el gas natural?", url: "https://www.naturgy.com/conocenos/que_es_el_gas_natural" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=natural%20metano" },
     { texto: "Khan Academy: Reacciones qu?micas y estequiometr?a", url: "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=natural%20metano" }
+    { texto: "V?deo recomendado (castellano): Qué es el gas natural y para qué sirve", url: "https://www.youtube.com/watch?v=q8YGbqSVrdE" },
+    { texto: "V?deo extra (castellano): ¿Cómo funciona tu aire acondicionado?", url: "https://www.youtube.com/watch?v=a8JBEFXsdk0" }
   ],
   presentacion: {
     pasos: [
@@ -391,9 +389,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Energía nuclear", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_nuclear" },
     { texto: "Foro Nuclear: ¿Qué es la energía nuclear?", url: "https://www.foronuclear.org/descubre-la-energia-nuclear/que-es-la-energia-nuclear/" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=nuclear%20fision" },
     { texto: "Khan Academy: F?sica nuclear", url: "https://es.khanacademy.org/science/physics/quantum-physics/nuclear-physics" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=nuclear%20fision" }
+    { texto: "V?deo recomendado (castellano): ENERGÍA NUCLEAR ventajas y desventajas - DOCUMENTAL de energía nuclear", url: "https://www.youtube.com/watch?v=dWc6PUiRZhA" },
+    { texto: "V?deo extra (castellano): Las energías no renovables - Tipos de energía para niños", url: "https://www.youtube.com/watch?v=HVLEzWmnD48" }
   ],
   presentacion: {
     pasos: [
@@ -431,9 +429,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Carbón", url: "https://es.wikipedia.org/wiki/Carb%C3%B3n" },
     { texto: "Wikipedia: Revolución Industrial", url: "https://es.wikipedia.org/wiki/Revoluci%C3%B3n_Industrial" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=carbon%20mineral%20formacion" },
     { texto: "Khan Academy: Impacto humano en el ambiente", url: "https://es.khanacademy.org/science/biology/ecology/human-impact-on-ecosystems/a/impact-of-human-activities-on-the-environment" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=carbon%20mineral%20formacion" }
+    { texto: "V?deo recomendado (castellano): La Revolución Industrial - 5 cosas que deberías saber - Historia para niños", url: "https://www.youtube.com/watch?v=tRiZ1pUWwrg" },
+    { texto: "V?deo extra (castellano): GRANDES INVENTOS: LA MÁQUINA DE VAPOR | Videos Educativos para Niños", url: "https://www.youtube.com/watch?v=0qGRQ_lhoU0" }
   ],
   presentacion: {
     pasos: [
@@ -471,9 +469,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Combustible fósil", url: "https://es.wikipedia.org/wiki/Combustible_f%C3%B3sil" },
     { texto: "Wikipedia: Gas natural", url: "https://es.wikipedia.org/wiki/Gas_natural" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=combustibles%20fosiles%20definicion" },
     { texto: "Khan Academy: Ciclo del carbono", url: "https://es.khanacademy.org/science/biology/ecology/biogeochemical-cycles/a/carbon-cycle" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=combustibles%20fosiles%20definicion" }
+    { texto: "V?deo recomendado (castellano): Las energías no renovables - Tipos de energía para niños", url: "https://www.youtube.com/watch?v=HVLEzWmnD48" },
+    { texto: "V?deo extra (castellano): Cuál es el origen del petróleo (y no, no viene de los dinosaurios) | BBC Mundo", url: "https://www.youtube.com/watch?v=KQbWFGB_Io4" }
   ],
   presentacion: {
     pasos: [
@@ -515,9 +513,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Célula fotovoltaica", url: "https://es.wikipedia.org/wiki/C%C3%A9lula_fotovoltaica" },
     { texto: "Wikipedia: Energía solar fotovoltaica", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_solar_fotovoltaica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=panel%20solar%20fotovoltaico" },
     { texto: "Khan Academy: Luz y ondas electromagn?ticas", url: "https://es.khanacademy.org/science/physics/light-waves" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=panel%20solar%20fotovoltaico" }
+    { texto: "V?deo recomendado (castellano): Las energías renovables - Tipos de energía para niños", url: "https://www.youtube.com/watch?v=4eEri5RivV8" },
+    { texto: "V?deo extra (castellano): Qué es la ENERGÍA SOLAR", url: "https://www.youtube.com/watch?v=HqA0-I5bqVU" }
   ],
   presentacion: {
     pasos: [
@@ -555,9 +553,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Aerogenerador", url: "https://es.wikipedia.org/wiki/Aerogenerador" },
     { texto: "Wikipedia: Energía eólica", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_e%C3%B3lica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=aerogenerador%20partes%20funcionamiento" },
     { texto: "Simulaci?n PhET: Generador el?ctrico", url: "https://phet.colorado.edu/sims/html/generator/latest/generator_all.html?locale=es" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=aerogenerador%20partes%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): ¿Cómo funciona la ENERGÍA EÓLICA? 💨⚡ + Tipos de AEROGENERADORES", url: "https://www.youtube.com/watch?v=rQ-3hSdJI-0" },
+    { texto: "V?deo extra (castellano): ¿Cómo funciona un aerogenerador?  | Sostenibilidad - ACCIONA", url: "https://www.youtube.com/watch?v=kmN9qD8vXbY" }
   ],
   presentacion: {
     pasos: [
@@ -595,9 +593,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Central hidroeléctrica", url: "https://es.wikipedia.org/wiki/Central_hidroel%C3%A9ctrica" },
     { texto: "Wikipedia: Energía hidráulica", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_hidr%C3%A1ulica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=central%20hidroelectrica%20funcionamiento" },
     { texto: "Khan Academy: Trabajo y energ?a", url: "https://es.khanacademy.org/science/physics/work-and-energy" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=central%20hidroelectrica%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): ENERGÍA HIDRÁULICA💧 ¿Es renovable? ¿Cómo funciona?", url: "https://www.youtube.com/watch?v=Z34TbQB79jE" },
+    { texto: "V?deo extra (castellano): ¿Cómo funciona la energía hidráulica? - Sostenibilidad | ACCIONA", url: "https://www.youtube.com/watch?v=Xx_Lxg4hCjc" }
   ],
   presentacion: {
     pasos: [
@@ -635,9 +633,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Energía geotérmica", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_geot%C3%A9rmica" },
     { texto: "Wikipedia: Geotermia", url: "https://es.wikipedia.org/wiki/Geotermia" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=geotermica%20funcionamiento" },
     { texto: "Khan Academy: Termodin?mica", url: "https://es.khanacademy.org/science/physics/thermodynamics" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=geotermica%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): ¿Qué es la energía? - Tipos de energía para niños - Energías renovables y no renovables", url: "https://www.youtube.com/watch?v=NAPAMIpGB-s" },
+    { texto: "V?deo extra (castellano): ENERGÍA GEOTÉRMICA🌋 ¿Qué es y cómo funciona?", url: "https://www.youtube.com/watch?v=SFf6k4OTslc" }
   ],
   presentacion: {
     pasos: [
@@ -675,9 +673,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Biomasa", url: "https://es.wikipedia.org/wiki/Biomasa" },
     { texto: "Wikipedia: Bioenergía", url: "https://es.wikipedia.org/wiki/Bioenerg%C3%ADa" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=biomasa%20renovable" },
     { texto: "Khan Academy: Introducci?n a los ecosistemas", url: "https://es.khanacademy.org/science/biology/ecology/intro-to-ecosystems/a/intro-to-ecosystems" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=biomasa%20renovable" }
+    { texto: "V?deo recomendado (castellano): Tipos de energías para niños  - Energías renovables y energías no renovables", url: "https://www.youtube.com/watch?v=aINlFT1m-sM" },
+    { texto: "V?deo extra (castellano): Las energías renovables - Tipos de energía para niños", url: "https://www.youtube.com/watch?v=4eEri5RivV8" }
   ],
   presentacion: {
     pasos: [
@@ -715,9 +713,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Energía mareomotriz", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_mareomotriz" },
     { texto: "Wikipedia: Energía undimotriz", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_undimotriz" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=mareomotriz%20funcionamiento" },
     { texto: "Khan Academy: Trabajo y energ?a", url: "https://es.khanacademy.org/science/physics/work-and-energy" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=mareomotriz%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): Las energías renovables - Tipos de energía para niños", url: "https://www.youtube.com/watch?v=4eEri5RivV8" },
+    { texto: "V?deo extra (castellano): ¿Qué es la energía? - Tipos de energía para niños - Energías renovables y no renovables", url: "https://www.youtube.com/watch?v=NAPAMIpGB-s" }
   ],
   presentacion: {
     pasos: [
@@ -755,9 +753,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Hidrógeno verde", url: "https://es.wikipedia.org/wiki/Hidr%C3%B3geno_verde" },
     { texto: "Iberdrola: ¿Qué es el hidrógeno verde?", url: "https://www.iberdrola.com/sostenibilidad/hidrogeno-verde" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=hidrogeno%20verde" },
     { texto: "Khan Academy: Reacciones qu?micas y estequiometr?a", url: "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=hidrogeno%20verde" }
+    { texto: "V?deo recomendado (castellano): ¿Qué tan verdes son las energías verdes?", url: "https://www.youtube.com/watch?v=nQcXm9rmdZM" },
+    { texto: "V?deo extra (castellano): Hidrógeno verde: ¿punto de inflexión para América Latina?", url: "https://www.youtube.com/watch?v=kQUCAu8XqNk" }
   ],
   presentacion: {
     pasos: [
@@ -795,9 +793,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Energía solar en España", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_solar_en_Espa%C3%B1a" },
     { texto: "Red Eléctrica de España: Informe de energías renovables", url: "https://www.ree.es/es/datos/generacion/potencia-instalada" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=espana%20solar%20datos" },
     { texto: "Khan Academy: Luz y ondas electromagn?ticas", url: "https://es.khanacademy.org/science/physics/light-waves" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=espana%20solar%20datos" }
+    { texto: "V?deo recomendado (castellano): Así funciona el SISTEMA ELÉCTRICO en ESPAÑA ⚡️💡", url: "https://www.youtube.com/watch?v=ppJIej5A0Aw" },
+    { texto: "V?deo extra (castellano): EUROPA - CURIOSIDADES PARA NIÑOS | Happy Learning 🇪🇺", url: "https://www.youtube.com/watch?v=RoAWSepE_xY" }
   ],
   presentacion: {
     pasos: [
@@ -839,9 +837,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Lluvia ácida", url: "https://es.wikipedia.org/wiki/Lluvia_%C3%A1cida" },
     { texto: "Wikipedia: Contaminación atmosférica", url: "https://es.wikipedia.org/wiki/Contaminaci%C3%B3n_atmosf%C3%A9rica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=lluvia%20acida%20causas" },
     { texto: "Khan Academy: Impacto humano en el ambiente", url: "https://es.khanacademy.org/science/biology/ecology/human-impact-on-ecosystems/a/impact-of-human-activities-on-the-environment" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=lluvia%20acida%20causas" }
+    { texto: "V?deo recomendado (castellano): ¿QUÉ ES LA LLUVIA ÁCIDA? | Vídeos Educativos para Niños", url: "https://www.youtube.com/watch?v=mKcB9bimgIQ" },
+    { texto: "V?deo extra (castellano): ¿Qué es la LLUVIA ÁCIDA? 💧 EFECTOS de la Lluvia Ácida", url: "https://www.youtube.com/watch?v=myad29yNm44" }
   ],
   presentacion: {
     pasos: [
@@ -879,9 +877,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Efecto invernadero", url: "https://es.wikipedia.org/wiki/Efecto_invernadero" },
     { texto: "Ministerio de Transición Ecológica: Cambio climático", url: "https://www.miteco.gob.es/es/cambio-climatico/temas/que-es-el-cambio-climatico-y-como-nos-afecta/" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=efecto%20invernadero%20explicacion" },
     { texto: "Khan Academy: Efecto invernadero", url: "https://es.khanacademy.org/science/biology/ecology/biogeochemical-cycles/a/the-greenhouse-effect" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=efecto%20invernadero%20explicacion" }
+    { texto: "V?deo recomendado (castellano): ¿Qué es el efecto invernadero? - Medio ambiente para niños", url: "https://www.youtube.com/watch?v=uO_6oS4PUkU" },
+    { texto: "V?deo extra (castellano): 26 Formas de Luchar contra el Cambio Climático", url: "https://www.youtube.com/watch?v=wNQ5wvGmnEk" }
   ],
   presentacion: {
     pasos: [
@@ -919,9 +917,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Huella de carbono", url: "https://es.wikipedia.org/wiki/Huella_de_carbono" },
     { texto: "Ministerio de Transición Ecológica: Calcula tu huella", url: "https://www.miteco.gob.es/es/cambio-climatico/temas/mitigacion-politicas-y-medidas/calculadora.html" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=huella%20carbono" },
     { texto: "Khan Academy: Huella ecol?gica", url: "https://es.khanacademy.org/science/biology/ecology/population-ecology/a/ecological-footprints" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=huella%20carbono" }
+    { texto: "V?deo recomendado (castellano): ¿Qué es la HUELLA ECOLÓGICA? 👣 CALCULAR huella ecológica", url: "https://www.youtube.com/watch?v=TM2Be7MqykY" },
+    { texto: "V?deo extra (castellano): Huella de carbono: mito y realidad", url: "https://www.youtube.com/watch?v=FzOBEVPtejY" }
   ],
   presentacion: {
     pasos: [
@@ -959,9 +957,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Energía nuclear – Impacto ambiental", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_nuclear#Impacto_ambiental" },
     { texto: "SEO/BirdLife: Eólica y aves", url: "https://www.seo.org/energia-eolica/" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=impacto%20ambiental%20central" },
     { texto: "Khan Academy: Impacto humano en el ambiente", url: "https://es.khanacademy.org/science/biology/ecology/human-impact-on-ecosystems/a/impact-of-human-activities-on-the-environment" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=impacto%20ambiental%20central" }
+    { texto: "V?deo recomendado (castellano): ENERGÍA NUCLEAR ventajas y desventajas - DOCUMENTAL de energía nuclear", url: "https://www.youtube.com/watch?v=dWc6PUiRZhA" },
+    { texto: "V?deo extra (castellano): El cambio climático para niños - ¿Qué es?", url: "https://www.youtube.com/watch?v=kcr-Ryq6Nrk" }
   ],
   presentacion: {
     pasos: [
@@ -999,9 +997,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Reciclaje de módulos fotovoltaicos", url: "https://es.wikipedia.org/wiki/Panel_solar#Reciclaje" },
     { texto: "Ecoembes: Reciclar paneles solares", url: "https://www.ecoembes.com/" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=reciclaje%20paneles%20solares" },
     { texto: "Khan Academy: Impacto humano en el ambiente", url: "https://es.khanacademy.org/science/biology/ecology/human-impact-on-ecosystems/a/impact-of-human-activities-on-the-environment" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=reciclaje%20paneles%20solares" }
+    { texto: "V?deo recomendado (castellano): Cómo Funciona un Panel Solar?", url: "https://www.youtube.com/watch?v=U6TYKw8_7bw" },
+    { texto: "V?deo extra (castellano): Las energías renovables - Tipos de energía para niños", url: "https://www.youtube.com/watch?v=4eEri5RivV8" }
   ],
   presentacion: {
     pasos: [
@@ -1043,9 +1041,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Horno de microondas", url: "https://es.wikipedia.org/wiki/Horno_de_microondas" },
     { texto: "Wikipedia: Radiación de microondas", url: "https://es.wikipedia.org/wiki/Radiaci%C3%B3n_de_microondas" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=microondas%20funcionamiento%20ondas" },
     { texto: "Khan Academy: Luz y ondas electromagn?ticas", url: "https://es.khanacademy.org/science/physics/light-waves" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=microondas%20funcionamiento%20ondas" }
+    { texto: "V?deo recomendado (castellano): Horno Microondas | ¿Cómo funciona?", url: "https://www.youtube.com/watch?v=G1c_iBIeNjc" },
+    { texto: "V?deo extra (castellano): EL SONIDO para niños 🔊📣 Intensidad, tono y timbre 🎵🎧 Ciencias para niños", url: "https://www.youtube.com/watch?v=xQBeSWXFVd8" }
   ],
   presentacion: {
     pasos: [
@@ -1083,9 +1081,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Cocina de inducción", url: "https://es.wikipedia.org/wiki/Cocina_de_inducci%C3%B3n" },
     { texto: "Wikipedia: Inducción electromagnética", url: "https://es.wikipedia.org/wiki/Inducci%C3%B3n_electromagn%C3%A9tica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=placa%20induccion%20funcionamiento" },
     { texto: "Khan Academy: Magnetismo y campos magn?ticos", url: "https://es.khanacademy.org/science/physics/magnetic-forces-and-magnetic-fields" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=placa%20induccion%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): Cómo Funciona un Horno de Inducción?", url: "https://www.youtube.com/watch?v=HlaAaox1zPM" },
+    { texto: "V?deo extra (castellano): El Sonido: ¿Cómo Se Produce y Viaja? | Vídeos Educativos para Niños | Naturales  @HappyLearningES", url: "https://www.youtube.com/watch?v=w2BJS-lmFEA" }
   ],
   presentacion: {
     pasos: [
@@ -1123,9 +1121,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Diodo emisor de luz", url: "https://es.wikipedia.org/wiki/Diodo_emisor_de_luz" },
     { texto: "Wikipedia: Lámpara LED", url: "https://es.wikipedia.org/wiki/L%C3%A1mpara_LED" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=funciona" },
     { texto: "Khan Academy: Circuitos el?ctricos", url: "https://es.khanacademy.org/science/physics/circuits-topic" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=funciona" }
+    { texto: "V?deo recomendado (castellano): Cómo Funcionan los LED - Descubre los Misterios de Cómo Funcionan los LED", url: "https://www.youtube.com/watch?v=PugXcHWBt_M" },
+    { texto: "V?deo extra (castellano): ¿Qué es el efecto invernadero? - Medio ambiente para niños", url: "https://www.youtube.com/watch?v=uO_6oS4PUkU" }
   ],
   presentacion: {
     pasos: [
@@ -1163,9 +1161,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Etiqueta de eficiencia energética", url: "https://es.wikipedia.org/wiki/Eficiencia_energ%C3%A9tica" },
     { texto: "Wikipedia: Ahorro de energía", url: "https://es.wikipedia.org/wiki/Ahorro_de_energ%C3%ADa" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=eficiencia%20energetica%20definicion" },
     { texto: "Khan Academy: Trabajo y energ?a", url: "https://es.khanacademy.org/science/physics/work-and-energy" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=eficiencia%20energetica%20definicion" }
+    { texto: "V?deo recomendado (castellano): 🧙‍♂️⚡ Cómo leer la etiqueta energética | Electrotrucos", url: "https://www.youtube.com/watch?v=6__8lhbZ3uo" },
+    { texto: "V?deo extra (castellano): ¿Qué es la energía? - Tipos de energía para niños - Energías renovables y no renovables", url: "https://www.youtube.com/watch?v=NAPAMIpGB-s" }
   ],
   presentacion: {
     pasos: [
@@ -1203,9 +1201,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Calefacción central", url: "https://es.wikipedia.org/wiki/Calefacci%C3%B3n_central" },
     { texto: "Naturgy: ¿Cómo funciona la calefacción de gas?", url: "https://www.naturgy.com/hogar/gas_natural/calefaccion" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=caldera%20calefaccion%20funcionamiento" },
     { texto: "Khan Academy: Termodin?mica", url: "https://es.khanacademy.org/science/physics/thermodynamics" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=caldera%20calefaccion%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): ¿Cómo funciona una caldera de gas natural? #naturgy #vatiopedia #energia #calefacción #caldera", url: "https://www.youtube.com/watch?v=do8_OKoke_I" },
+    { texto: "V?deo extra (castellano): Cómo CALENTAR la CASA sin CALEFACCIÓN ni ELECTRICIDAD 🏠🔥 | 6 Trucos para Calentar la Casa Sin Gastar", url: "https://www.youtube.com/watch?v=B9pBofEz6C8" }
   ],
   presentacion: {
     pasos: [
@@ -1243,9 +1241,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Batería de ion de litio", url: "https://es.wikipedia.org/wiki/Bater%C3%ADa_de_ion_de_litio" },
     { texto: "Wikipedia: Batería eléctrica", url: "https://es.wikipedia.org/wiki/Bater%C3%ADa_el%C3%A9ctrica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=bateria%20litio%20funcionamiento" },
     { texto: "Khan Academy: Circuitos el?ctricos", url: "https://es.khanacademy.org/science/physics/circuits-topic" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=bateria%20litio%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): Batería de iones de litio, ¿Cómo funciona?", url: "https://www.youtube.com/watch?v=ydCfLFJqaBw" },
+    { texto: "V?deo extra (castellano): Tecnología: Episodio 3 - Vocabulario para niños - Tablet, móvil, videoconsola, cargador, batería", url: "https://www.youtube.com/watch?v=c67D-m8Vmtw" }
   ],
   presentacion: {
     pasos: [
@@ -1283,9 +1281,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Carga inalámbrica", url: "https://es.wikipedia.org/wiki/Carga_inal%C3%A1mbrica" },
     { texto: "Wikipedia: Inducción electromagnética", url: "https://es.wikipedia.org/wiki/Inducci%C3%B3n_electromagn%C3%A9tica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=carga%20inalambrica%20funcionamiento" },
     { texto: "Simulaci?n PhET: Ley de Faraday", url: "https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_all.html?locale=es" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=carga%20inalambrica%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): CÓMO FUNCIONA 🔋LA CARGA INALÁMBRICA🔋", url: "https://www.youtube.com/watch?v=CKbORdbhqbQ" },
+    { texto: "V?deo extra (castellano): Como hacer que tu telefono pueda recibir carga inalámbrica", url: "https://www.youtube.com/watch?v=0hesjm-4kNQ" }
   ],
   presentacion: {
     pasos: [
@@ -1323,9 +1321,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Refrigerador", url: "https://es.wikipedia.org/wiki/Refrigerador" },
     { texto: "Wikipedia: Bomba de calor", url: "https://es.wikipedia.org/wiki/Bomba_de_calor" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=nevera%20frigorifico%20funcionamiento" },
     { texto: "Khan Academy: Termodin?mica", url: "https://es.khanacademy.org/science/physics/thermodynamics" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=nevera%20frigorifico%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): Como funciona un refrigerador #comofunciona #refrigerador #refrigeacion #ingenieria #termodinamica", url: "https://www.youtube.com/watch?v=Q6QFOTREbKg" },
+    { texto: "V?deo extra (castellano): ¿Qué es la energía? - Tipos de energía para niños - Energías renovables y no renovables", url: "https://www.youtube.com/watch?v=NAPAMIpGB-s" }
   ],
   presentacion: {
     pasos: [
@@ -1363,9 +1361,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Calentador de agua eléctrico", url: "https://es.wikipedia.org/wiki/Calentador_de_agua" },
     { texto: "Wikipedia: Agua caliente sanitaria", url: "https://es.wikipedia.org/wiki/Agua_caliente_sanitaria" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=termo%20electrico%20funcionamiento" },
     { texto: "Khan Academy: Termodin?mica", url: "https://es.khanacademy.org/science/physics/thermodynamics" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=termo%20electrico%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): 🛠️ Como funciona un termo eléctrico.", url: "https://www.youtube.com/watch?v=K87ZKAimKY8" },
+    { texto: "V?deo extra (castellano): 🌞¿QUÉ ES LA ENERGÍA? Energías Renovables y No Renovables | Ciencias Naturales | @HappyLearningES", url: "https://www.youtube.com/watch?v=m9rMQYtg8OM" }
   ],
   presentacion: {
     pasos: [
@@ -1408,9 +1406,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Comunidad de energía renovable", url: "https://es.wikipedia.org/wiki/Autoconsumo" },
     { texto: "IDAE: Comunidades energéticas", url: "https://www.idae.es/ayudas-y-financiacion/comunidades-energeticas" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=comunidad%20energetica" },
     { texto: "Khan Academy: Circuitos el?ctricos", url: "https://es.khanacademy.org/science/physics/circuits-topic" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=comunidad%20energetica" }
+    { texto: "V?deo recomendado (castellano): ¿Qué son las comunidades energéticas?", url: "https://www.youtube.com/watch?v=WCFlkMUWY4A" },
+    { texto: "V?deo extra (castellano): ¿Qué es la energía? - Tipos de energía para niños - Energías renovables y no renovables", url: "https://www.youtube.com/watch?v=NAPAMIpGB-s" }
   ],
   presentacion: {
     pasos: [
@@ -1449,9 +1447,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Red eléctrica inteligente", url: "https://es.wikipedia.org/wiki/Red_el%C3%A9ctrica_inteligente" },
     { texto: "Wikipedia: Medidor eléctrico", url: "https://es.wikipedia.org/wiki/Medidor_el%C3%A9ctrico" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=smart%20grid%20electrica" },
     { texto: "Khan Academy: Corriente el?ctrica", url: "https://es.khanacademy.org/science/physics/current-electricity" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=smart%20grid%20electrica" }
+    { texto: "V?deo recomendado (castellano): La Smart Grid o redes inteligentes", url: "https://www.youtube.com/watch?v=Eb5tUcvbpLM" },
+    { texto: "V?deo extra (castellano): EL SONIDO para niños 🔊📣 Intensidad, tono y timbre 🎵🎧 Ciencias para niños", url: "https://www.youtube.com/watch?v=xQBeSWXFVd8" }
   ],
   presentacion: {
     pasos: [
@@ -1489,9 +1487,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Red de transporte de energía eléctrica", url: "https://es.wikipedia.org/wiki/Red_de_transporte_de_energ%C3%ADa_el%C3%A9ctrica" },
     { texto: "Wikipedia: Alta tensión eléctrica", url: "https://es.wikipedia.org/wiki/Alta_tensi%C3%B3n_el%C3%A9ctrica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=transporte%20electricidad%20alta" },
     { texto: "Khan Academy: Corriente el?ctrica", url: "https://es.khanacademy.org/science/physics/current-electricity" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=transporte%20electricidad%20alta" }
+    { texto: "V?deo recomendado (castellano): ELECTRICIDAD para niños ⚡ Episodio 3 💡 Circuito 🔌 Materiales conductores y materiales aislantes", url: "https://www.youtube.com/watch?v=a4mY3YMNLz8" },
+    { texto: "V?deo extra (castellano): ¿Qué es la electricidad? - Ciencia para niños - Episodio 1", url: "https://www.youtube.com/watch?v=ovrgMD6tEm8" }
   ],
   presentacion: {
     pasos: [
@@ -1529,9 +1527,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Pila eléctrica – Reciclaje", url: "https://es.wikipedia.org/wiki/Pila_el%C3%A9ctrica" },
     { texto: "Wikipedia: Reciclaje de pilas", url: "https://es.wikipedia.org/wiki/Reciclaje_de_pilas" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=reciclaje%20pilas%20baterias" },
     { texto: "Khan Academy: Impacto humano en el ambiente", url: "https://es.khanacademy.org/science/biology/ecology/human-impact-on-ecosystems/a/impact-of-human-activities-on-the-environment" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=reciclaje%20pilas%20baterias" }
+    { texto: "V?deo recomendado (castellano): El reciclaje de las PILAS - ¿CÓMO SE RECICLAN?", url: "https://www.youtube.com/watch?v=GTmRB5Vvikc" },
+    { texto: "V?deo extra (castellano): El cambio climático para niños - ¿Qué es?", url: "https://www.youtube.com/watch?v=kcr-Ryq6Nrk" }
   ],
   presentacion: {
     pasos: [
@@ -1569,9 +1567,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Fusión nuclear", url: "https://es.wikipedia.org/wiki/Fusi%C3%B3n_nuclear" },
     { texto: "ITER: ¿Qué es la fusión?", url: "https://www.iter.org/sci/whatisfusion" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=fusion%20nuclear" },
     { texto: "Khan Academy: F?sica nuclear", url: "https://es.khanacademy.org/science/physics/quantum-physics/nuclear-physics" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=fusion%20nuclear" }
+    { texto: "V?deo recomendado (castellano): Energía nuclear ⚛ ¿Milagro o cataclismo?", url: "https://www.youtube.com/watch?v=iFc2soY1iLg" },
+    { texto: "V?deo extra (castellano): ¿Por qué la Fusión Nuclear Nunca Llega?", url: "https://www.youtube.com/watch?v=Ch4KGFp7QZk" }
   ],
   presentacion: {
     pasos: [
@@ -1609,9 +1607,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Centro de procesamiento de datos", url: "https://es.wikipedia.org/wiki/Centro_de_procesamiento_de_datos" },
     { texto: "Wikipedia: Centro de datos - Consumo energético", url: "https://es.wikipedia.org/wiki/Centro_de_datos#Consumo_energ%C3%A9tico" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=centro%20datos%20data" },
     { texto: "Khan Academy: Huella ecol?gica", url: "https://es.khanacademy.org/science/biology/ecology/population-ecology/a/ecological-footprints" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=centro%20datos%20data" }
+    { texto: "V?deo recomendado (castellano): Privacidad online para niños - Protección y seguridad en internet para niños", url: "https://www.youtube.com/watch?v=rHDTJQKW2y8" },
+    { texto: "V?deo extra (castellano): ¿Qué es la NETIQUETA? 📱 Normas de comportamiento en Internet para niños 💻 Episodio 1", url: "https://www.youtube.com/watch?v=SrDvQCcNwWQ" }
   ],
   presentacion: {
     pasos: [
@@ -1653,9 +1651,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Motor de combustión interna", url: "https://es.wikipedia.org/wiki/Motor_de_combusti%C3%B3n_interna" },
     { texto: "Wikipedia: Motor de gasolina", url: "https://es.wikipedia.org/wiki/Motor_de_gasolina" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=motor%20combustion%20interna" },
     { texto: "Khan Academy: Reacciones qu?micas y estequiometr?a", url: "https://es.khanacademy.org/science/chemistry/chemical-reactions-stoichiome" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=motor%20combustion%20interna" }
+    { texto: "V?deo recomendado (castellano): Cómo funciona un motor de 4 tiempos", url: "https://www.youtube.com/watch?v=juWs8ildOXA" },
+    { texto: "V?deo extra (castellano): Transmisió manual, ¿cómo funciona?", url: "https://www.youtube.com/watch?v=bDM2Y0SrUUM" }
   ],
   presentacion: {
     pasos: [
@@ -1693,9 +1691,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Vehículo eléctrico", url: "https://es.wikipedia.org/wiki/Veh%C3%ADculo_el%C3%A9ctrico" },
     { texto: "IDAE: Vehículo eléctrico", url: "https://www.idae.es/tecnologias/eficiencia-energetica/transporte" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=coche%20electrico%20gasolina" },
     { texto: "Khan Academy: Impacto humano en el ambiente", url: "https://es.khanacademy.org/science/biology/ecology/human-impact-on-ecosystems/a/impact-of-human-activities-on-the-environment" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=coche%20electrico%20gasolina" }
+    { texto: "V?deo recomendado (castellano): Coche en 2024 ¿Qué comprar? Híbrido, eléctrico o gasolina", url: "https://www.youtube.com/watch?v=T1e5tTpJctk" },
+    { texto: "V?deo extra (castellano): ¿COCHE ELÉCTRICO, GASOLINA O DIÉSEL? ¿QUÉ ES MÁS BARATO? #cocheelectrico #tesla #viajes #gasolina", url: "https://www.youtube.com/watch?v=vWa0aDIctp4" }
   ],
   presentacion: {
     pasos: [
@@ -1733,9 +1731,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Dinamo", url: "https://es.wikipedia.org/wiki/Dinamo_(generador_el%C3%A9ctrico)" },
     { texto: "Wikipedia: Generador eléctrico", url: "https://es.wikipedia.org/wiki/Generador_el%C3%A9ctrico" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=dinamo%20bicicleta%20funcionamiento" },
     { texto: "Simulaci?n PhET: Ley de Faraday", url: "https://phet.colorado.edu/sims/html/faradays-law/latest/faradays-law_all.html?locale=es" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=dinamo%20bicicleta%20funcionamiento" }
+    { texto: "V?deo recomendado (castellano): Lo que necesitas saber sobre dinamos y luces", url: "https://www.youtube.com/watch?v=yEloycD1qro" },
+    { texto: "V?deo extra (castellano): ¿Cómo funciona un aerogenerador?  | Sostenibilidad - ACCIONA", url: "https://www.youtube.com/watch?v=kmN9qD8vXbY" }
   ],
   presentacion: {
     pasos: [
@@ -1778,9 +1776,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Sol", url: "https://es.wikipedia.org/wiki/Sol" },
     { texto: "NASA en español: Nuestro Sol", url: "https://ciencia.nasa.gov/sol" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=fusion%20nuclear" },
     { texto: "Khan Academy: Cosmolog?a y astronom?a", url: "https://es.khanacademy.org/science/cosmology-and-astronomy" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=fusion%20nuclear" }
+    { texto: "V?deo recomendado (castellano): ¿De donde sale la energía del Sol? (Dr.Astrón) #ciencia #física", url: "https://www.youtube.com/watch?v=UUShVtHegCQ" },
+    { texto: "V?deo extra (castellano): El tiempo atmosférico para niños | Aprender vocabulario en español | Nuevas palabras para niños", url: "https://www.youtube.com/watch?v=isZyxGl9SuM" }
   ],
   presentacion: {
     pasos: [
@@ -1818,9 +1816,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Fotosíntesis", url: "https://es.wikipedia.org/wiki/Fotos%C3%ADntesis" },
     { texto: "Wikipedia: Clorofila", url: "https://es.wikipedia.org/wiki/Clorofila" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=fotosintesis%20plantas%20proceso" },
     { texto: "Khan Academy: Fotos?ntesis en plantas", url: "https://es.khanacademy.org/science/biology/photosynthesis-in-plants" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=fotosintesis%20plantas%20proceso" }
+    { texto: "V?deo recomendado (castellano): La fotosíntesis de las plantas | Ciencias naturales para niños", url: "https://www.youtube.com/watch?v=mtGgo68VM54" },
+    { texto: "V?deo extra (castellano): 🌿 LAS PLANTAS para niños 🌻 Fotosíntesis, polinización, partes y tipos de la plantas", url: "https://www.youtube.com/watch?v=zSyBhhIQ3IQ" }
   ],
   presentacion: {
     pasos: [
@@ -1858,9 +1856,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Rayo", url: "https://es.wikipedia.org/wiki/Rayo" },
     { texto: "Wikipedia: Tormenta eléctrica", url: "https://es.wikipedia.org/wiki/Tormenta_el%C3%A9ctrica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=rayo%20descarga%20electrica" },
     { texto: "Khan Academy: Carga el?ctrica, fuerza y voltaje", url: "https://es.khanacademy.org/science/physics/electric-charge-electric-force-and-voltage" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=rayo%20descarga%20electrica" }
+    { texto: "V?deo recomendado (castellano): ¿Cómo se forma el rayo? Diferencia entre rayo, trueno y relámpago", url: "https://www.youtube.com/watch?v=kiXs910lS64" },
+    { texto: "V?deo extra (castellano): Energía nuclear ⚛ ¿Milagro o cataclismo?", url: "https://www.youtube.com/watch?v=iFc2soY1iLg" }
   ],
   presentacion: {
     pasos: [
@@ -1902,9 +1900,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Energía – Tipos", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa" },
     { texto: "Wikipedia: Energía eléctrica", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_el%C3%A9ctrica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=formas%20casa" },
     { texto: "Khan Academy: Trabajo y energ?a", url: "https://es.khanacademy.org/science/physics/work-and-energy" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=formas%20casa" }
+    { texto: "V?deo recomendado (castellano): ¿Qué es la energía? - Tipos de energía para niños - Energías renovables y no renovables", url: "https://www.youtube.com/watch?v=NAPAMIpGB-s" },
+    { texto: "V?deo extra (castellano): Aprende las habitaciones de la casa | Vocabulario para niños", url: "https://www.youtube.com/watch?v=wBZXyMjdjf8" }
   ],
   presentacion: {
     pasos: [
@@ -1941,9 +1939,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Energía renovable", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_renovable" },
     { texto: "Wikipedia: Energía no renovable", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_no_renovable" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=renovable%20renovable" },
     { texto: "Khan Academy: Impacto humano en el ambiente", url: "https://es.khanacademy.org/science/biology/ecology/human-impact-on-ecosystems/a/impact-of-human-activities-on-the-environment" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=renovable%20renovable" }
+    { texto: "V?deo recomendado (castellano): Las energías renovables - Tipos de energía para niños", url: "https://www.youtube.com/watch?v=4eEri5RivV8" },
+    { texto: "V?deo extra (castellano): Tipos de energías para niños  - Energías renovables y energías no renovables", url: "https://www.youtube.com/watch?v=aINlFT1m-sM" }
   ],
   presentacion: {
     pasos: [
@@ -1980,9 +1978,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Panel solar", url: "https://es.wikipedia.org/wiki/Panel_solar" },
     { texto: "Wikipedia: Energía solar", url: "https://es.wikipedia.org/wiki/Energ%C3%ADa_solar" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=panel%20solar" },
     { texto: "Khan Academy: Luz y ondas electromagn?ticas", url: "https://es.khanacademy.org/science/physics/light-waves" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=panel%20solar" }
+    { texto: "V?deo recomendado (castellano): Las energías renovables - Tipos de energía para niños", url: "https://www.youtube.com/watch?v=4eEri5RivV8" },
+    { texto: "V?deo extra (castellano): Qué es la ENERGÍA SOLAR", url: "https://www.youtube.com/watch?v=HqA0-I5bqVU" }
   ],
   presentacion: {
     pasos: [
@@ -2019,9 +2017,9 @@ window.PREGUNTAS = [
   referencias: [
     { texto: "Wikipedia: Ahorro de energía", url: "https://es.wikipedia.org/wiki/Ahorro_de_energ%C3%ADa" },
     { texto: "IDAE: Consejos de ahorro energético", url: "https://www.idae.es/tecnologias/eficiencia-energetica" },
-    { texto: "Video educativo (canal oficial Smile and Learn, busqueda por tema)", url: "https://www.youtube.com/@smileandlearnespanol/search?query=ahorrar%20casa" },
     { texto: "Khan Academy: Huella ecol?gica", url: "https://es.khanacademy.org/science/biology/ecology/population-ecology/a/ecological-footprints" },
-    { texto: "Video educativo (canal oficial Happy Learning, busqueda por tema)", url: "https://www.youtube.com/@happylearninges/search?query=ahorrar%20casa" }
+    { texto: "V?deo recomendado (castellano): Consumo responsable para niños - Las tres erres: Reducir, Reutilizar y Reciclar", url: "https://www.youtube.com/watch?v=yM0SeWPybu8" },
+    { texto: "V?deo extra (castellano): Trucos para AHORRAR AGUA - Salvemos el planeta - Medio ambiente para niños", url: "https://www.youtube.com/watch?v=TOD_9kWu3bA" }
   ],
   presentacion: {
     pasos: [
